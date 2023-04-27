@@ -57,3 +57,11 @@ input{
 #total{
     text-align: centers;
 }
+
+nav {
+    margin-left: 600px;
+    padding-left: 50px;
+    word-spacing: 10px;
+    font-weight: bolder;
+    font-size: x-large;
+}
